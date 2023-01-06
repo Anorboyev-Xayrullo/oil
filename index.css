@@ -1,0 +1,339 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.carousel-inner {
+    border-radius: 20px;
+}
+
+.charos {
+    display: flex;
+    margin-top: 20px;
+}
+
+.fa-sharp {
+    margin-top: 5px;
+
+}
+
+.phone {
+    margin-left: 5px;
+}
+
+.masre {
+    margin-top: 20px;
+}
+
+.input-group-text {
+    margin-top: 15px;
+}
+.list-header-fix{
+    margin-top: 20px;
+}
+
+.vce {
+    border: none;
+    left: 6.25%;
+    right: 82.08%;
+    top: 59.57%;
+    bottom: 9.22%;
+    background: linear-gradient(0deg, #6B59CC, #6B59CC), linear-gradient(0deg, #5946D7, #5946D7), linear-gradient(0deg, #453888, #453888), linear-gradient(0deg, #410F9E, #410F9E), #2E1066;
+    border-radius: 8px;
+    left: 6.25%;
+    right: 82.08%;
+    top: 59.57%;
+    bottom: 9.22%;
+    background: linear-gradient(0deg, #6B59CC, #6B59CC), linear-gradient(0deg, #5946D7, #5946D7), linear-gradient(0deg, #453888, #453888), linear-gradient(0deg, #410F9E, #410F9E), #2E1066;
+    border-radius: 8px;
+}
+.list_item a:hover{
+    color: green;
+}
+
+.vce:hover{
+    color: aqua;
+}
+.list {
+    margin-left: 10px;
+    list-style: none;
+    margin-top: 40px;
+
+}
+
+.list_item {
+    margin-left: 30px;
+
+}
+
+
+.list_item a {
+    text-decoration: none;
+}
+
+.fa-sharpa {
+    margin-left: 40px;
+
+}
+
+
+.positionLeft {
+    position: absolute;
+    padding-top: 100px;
+    top: 0;
+}
+
+.positionRight {
+    position: absolute;
+    padding-top: 100px;
+    top: 0;
+}
+
+
+.mace{
+    width: 200px;   
+}
+.right-macla {
+    width: 430px;
+}
+
+.positionLeft {
+    left: 100px;
+}
+
+.Abdulloh {
+    display: flex;
+    margin-top: 50px;
+}
+
+.card {
+    color: blue;
+}
+
+.card-title {
+    color: #FFFFFF;
+}
+
+
+
+.const {
+    margin-left: 10px;
+}
+
+.css {
+    display: flex;
+}
+
+
+.card {
+    margin-left: 20px;
+}
+
+.ozoda {
+    margin-top: 40px;
+}
+
+.ozoda:hover{
+    color: blue;
+}
+
+#my-text {
+    display: inline;
+}
+
+.my-text {
+    margin-left: 55px;
+    font-size: 14px;
+}
+
+.carta {
+    font-size: 20px;
+}
+
+
+#behruz {
+    background-image: url(img/image\ 84.svg);
+}
+
+
+
+.oil {
+    margin-top: 180px;
+}
+
+.card-title:hover{
+    color: black;
+}
+.pol:hover{
+    color: blue;
+}
+.pollar:hover{
+   color: blue;
+}
+
+.door:hover{
+    color: blue;
+}
+
+.motor:hover{
+    color: goldenrod;
+}
+
+.ona:hover{
+    color: red;
+}
+.reka:hover{
+    color: goldenrod;
+}
+.xusan:hover{
+    color: goldenrod;
+}
+
+.menyu:hover{
+    color: red;
+}
+
+.kontakt:hover{
+    color: red;
+}
+
+.kategoriya:hover{
+    color: #2E1066;
+}
+
+.charos:hover{
+    color: red;
+}
+
+.list:hover{
+    color: greenyellow;
+}
+.oil:hover{
+    color: goldenrod;
+}
+
+.my-oil {
+    background-color: #2E1066;
+}
+
+.span {
+    margin-top: 20px;
+}
+
+.pol {
+    margin-top: 215px;
+}
+
+.shop {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #2E1066;
+    border: none;
+}
+
+.yulduz {
+    margin-left: 20px;
+}
+
+.mobil {
+    margin-top: 20px;
+}
+
+.ona {
+    width: 129px;
+    height: 40px;
+    left: 30px;
+    top: 114px;
+    background: linear-gradient(0deg, #5946D7, #5946D7), linear-gradient(0deg, #453888, #453888), linear-gradient(0deg, #410F9E, #410F9E), #2E1066;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: none;
+
+}
+
+.my-card-item {
+    margin-top: 50px;
+}
+.mask {
+    position: absolute;
+}
+.lola {
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+
+
+
+
+
+
+.xusan{
+    margin-top: 60px;
+}
+
+
+.door{
+    margin-top: 70px;
+}
+.pollar{
+    margin-top: 160px;
+}
+.hayri{
+    width: 175px;
+}
+
+.teatr{
+    background:  #2F323D;
+}
+.cat{
+    margin-top: 125px;
+}
+
+.menyu{
+    color: #FFFFFF;
+}
+
+.kontakt{
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+
+.hayriml{
+    width: 180px;
+}
+
+.ha{
+    width: 200px;
+}
+.hayrkl{
+    width: 110px;
+}
+.teatr{
+    margin-top: 60px;
+}
+@media (max-width:1067px) {
+ .phone{
+    font-size: 12px;
+ }   
+}
+
+@media (max-width:800px){
+    .header-box{
+        display: none !important;
+    }
+    .header-element{
+        width: 70% !important;
+    }
+    .list-header-fix{
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width:575px){
+
+}
